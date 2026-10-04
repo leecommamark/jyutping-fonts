@@ -1,0 +1,97 @@
+/* Jyutping Fonts 1.000 -- SIL Open Font License 1.1 */
+
+@font-face {
+  font-family: "Jyutping Sans";
+  src: url("fonts/JyutpingSans/JyutpingSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Sans";
+  src: url("fonts/JyutpingSans/JyutpingSans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Serif";
+  src: url("fonts/JyutpingSerif/JyutpingSerif-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Serif";
+  src: url("fonts/JyutpingSerif/JyutpingSerif-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Book";
+  src: url("fonts/JyutpingBook/JyutpingBook-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Book";
+  src: url("fonts/JyutpingBook/JyutpingBook-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Rounded";
+  src: url("fonts/JyutpingRounded/JyutpingRounded-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Rounded";
+  src: url("fonts/JyutpingRounded/JyutpingRounded-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Clear";
+  src: url("fonts/JyutpingClear/JyutpingClear-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Clear";
+  src: url("fonts/JyutpingClear/JyutpingClear-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Slab";
+  src: url("fonts/JyutpingSlab/JyutpingSlab-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jyutping Slab";
+  src: url("fonts/JyutpingSlab/JyutpingSlab-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
