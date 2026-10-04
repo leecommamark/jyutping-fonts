@@ -1,6 +1,6 @@
 # Jyutping Fonts 1.000
 
-Six font families that show **Cantonese tones as marks**. Type ordinary
+Seven font families that show **Cantonese tones as marks**. Type ordinary
 Jyutping with tone numbers -- `nei5 hou2`, `sik6 faan6` -- and the font
 draws a tone mark on the vowel and hides the number.
 
@@ -36,6 +36,7 @@ marked (`jyu6`: the u), and syllables with no vowel mark the `m` or the `n` of
 | Jyutping Rounded | Nunito | soft, rounded sans |
 | Jyutping Clear | Atkinson Hyperlegible Next | sans designed for maximum legibility |
 | Jyutping Slab | Bitter | slab serif |
+| Jyutping Mono | JetBrains Mono | monospace |
 
 Each comes in Regular and Bold, as `.ttf` (to install) and `.woff2` (for websites).
 
@@ -79,10 +80,12 @@ Copy the `fonts/` folder and `jyutping-fonts.css` to your site, then:
   similar features.
 * Tone marks are the same weight in Bold as in Regular, by design, so every
   tone looks alike in weight.
+* In Jyutping Mono the hidden tone number takes no space, so `si1` is two
+  cells wide, not three.
 
 ## Licence and credits
 
-All six families are licensed under the **SIL Open Font License 1.1**: free to
+All seven families are licensed under the **SIL Open Font License 1.1**: free to
 use, share, embed and modify, but not to sell on their own. The licence is in
 [`OFL.txt`](OFL.txt), and each family's copy, with its own copyright lines, is
 the `OFL-*.txt` file beside its fonts.
@@ -96,6 +99,7 @@ letters are the work of the original fonts' designers:
 * **Jyutping Rounded**: Nunito -- Vernon Adams. Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
 * **Jyutping Clear**: Atkinson Hyperlegible Next -- Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky, Letters from Sweden. Copyright 2020-2024 The Atkinson Hyperlegible Next Project Authors (https://github.com/googlefonts/atkinson-hyperlegible-next)
 * **Jyutping Slab**: Bitter -- Sol Matas, and Bitter project Authors. Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)
+* **Jyutping Mono**: JetBrains Mono -- Philipp Nurullin, Konstantin Bulenkov. Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
 
 These fonts are modified versions with new names. They are not made, endorsed
 or supported by the designers or owners of the original fonts. Gelasio,
