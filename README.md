@@ -1,4 +1,4 @@
-# Jyutping Fonts 1.000
+# Jyutping Fonts 1.001
 
 Seven font families that show **Cantonese tones as marks**. Type ordinary
 Jyutping with tone numbers -- `nei5 hou2`, `sik6 faan6` -- and the font
@@ -8,19 +8,22 @@ draws a tone mark on the vowel and hides the number.
 
 ## The tone marks
 
-Every mark is the same teardrop stroke. Its **shape** follows the pitch (level,
-rising, falling) and its **position** gives the register (above the letter =
-high, below = low). On slanted marks the heavy end always points away from the
-letter.
+Every mark is drawn in the same stroke weight. Its **shape** follows the pitch:
+a moving pitch (rising or falling) is a teardrop, tapering, its heavy end always
+away from the letter; a level pitch is an even bar with round ends. Its
+**position** gives the register (above the letter = high, below = low).
 
 | Tone | Pitch | Mark | Example |
 |---|---|---|---|
-| 1 | high level | level stroke above | `si1` |
-| 2 | high rising | rising stroke above | `si2` |
+| 1 | high level | even bar above | `si1` |
+| 2 | high rising | rising teardrop above | `si2` |
 | 3 | mid level | no mark | `si3` |
-| 4 | low falling | falling stroke below | `si4` |
-| 5 | low rising | rising stroke below | `si5` |
-| 6 | low level | level stroke below | `si6` |
+| 4 | low falling | falling teardrop below | `si4` |
+| 5 | low rising | rising teardrop below | `si5` |
+| 6 | low level | even bar below | `si6` |
+
+Since 1.001 the level marks are even bars; in 1.000 they were level teardrops,
+which at small sizes could look slanted, like tones 2 and 5.
 
 The mark goes on the first vowel of the syllable (`seoi5`: the e). `y` is never
 marked (`jyu6`: the u), and syllables with no vowel mark the `m` or the `n` of
