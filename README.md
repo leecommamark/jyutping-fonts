@@ -1,4 +1,4 @@
-# Jyutping Fonts 1.001
+# Jyutping Fonts 1.002
 
 Seven font families that show **Cantonese tones as marks**. Type ordinary
 Jyutping with tone numbers -- `nei5 hou2`, `sik6 faan6` -- and the font
@@ -23,7 +23,9 @@ away from the letter; a level pitch is an even bar with round ends. Its
 | 6 | low level | even bar below | `si6` |
 
 Since 1.001 the level marks are even bars; in 1.000 they were level teardrops,
-which at small sizes could look slanted, like tones 2 and 5.
+which at small sizes could look slanted, like tones 2 and 5. In 1.002 the level
+marks sit slightly further from the letter, and the marks for tones 2, 4 and 5
+slightly to the right.
 
 The mark goes on the first vowel of the syllable (`seoi5`: the e). `y` is never
 marked (`jyu6`: the u), and syllables with no vowel mark the `m` or the `n` of
