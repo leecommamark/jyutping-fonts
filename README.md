@@ -1,4 +1,4 @@
-# Jyutping Fonts 1.006
+# Jyutping Fonts 1.007
 
 Seven font families that show **Cantonese tones as marks**. Type ordinary
 Jyutping with tone numbers -- `nei5 hou2`, `sik6 faan6` -- and the font
@@ -36,7 +36,8 @@ When two letters spell one vowel sound -- `aa`, `eo` and `oe`, and the diphthong
 In `aai`, `aau` and `eoi` (`gaai2`, `seoi2`) it is centred over the first two
 letters. The letters are still separate characters, not a ligature. In 1.003 and
 1.004 `ng` and `yu` were centred too; since 1.005 the mark is on the `n` and the
-`u` again.
+`u` again. Since 1.007 the marks below (tones 4, 5 and 6) on a single vowel
+before `ng` are centred under the vowel and the `n` (`hung4`, `tung6`, `sing4`).
 
 The mark goes on the first vowel of the syllable (`seoi5`: the e). `y` is never
 marked (`jyu6`: the u), and syllables with no vowel mark the `m` or the `n` of
